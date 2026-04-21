@@ -3,6 +3,7 @@ import json
 import os
 from datetime import datetime
 from typing import Dict, Optional
+from zoneinfo import ZoneInfo
 
 class OfisYemekBot:
     def __init__(self):
@@ -14,7 +15,7 @@ class OfisYemekBot:
         if self.test_date:
             self.today = datetime.strptime(self.test_date, '%Y-%m-%d')
         else:
-            self.today = datetime.now()
+            self.today = datetime.now(ZoneInfo("Europe/Istanbul"))
             
         print(f"🍽️ Ofis Yemek Bot başlatıldı - {self.today.strftime('%d.%m.%Y %A')}")
         
