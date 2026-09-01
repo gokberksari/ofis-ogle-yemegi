@@ -1,13 +1,12 @@
 name: Ofis Yemek Menüsü Bot
 
 on:
-  schedule:
-    # Hedef TR 06:53 — GitHub Actions kuyruk gecikmesi (gözlemlenen ~2-2.5 saat) sonrası
-    # mesaj 09:00-09:30 civarına düşer. Önceki ayar (07 UTC) 12:30-13:00'a kayıyordu,
-    # 3.5 saat öne çekildi. Saat-başı (`:00`) slotları kalabalık olduğu için 53. dakika seçildi.
-    - cron: '53 3 * * 1-5'  # Hafta içi sadece (Pazartesi-Cuma)
-  
-  # Manuel tetikleme
+  # NOT: GitHub Actions'ın `schedule` cron'u "best-effort" olduğu için saatlerce
+  # gecikebiliyordu (mesaj 05:00, 06:00, 12:30 gibi rastgele saatlerde düşüyordu).
+  # Bu yüzden schedule kaldırıldı. Artık dış bir zamanlayıcı (cron-job.org) her gün
+  # hafta içi TR 11:00'de aşağıdaki workflow_dispatch'i GitHub API üzerinden tetikliyor.
+  # workflow_dispatch schedule'ın aksine anında (saniyeler içinde) çalışır.
+  # Kurulum: docs/ZAMANLAMA.md
   workflow_dispatch:
     inputs:
       test_date:
