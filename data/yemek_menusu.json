@@ -1,131 +1,78 @@
 {
-  "2026-08-01": {
-    "tarih": "01.08.2026 Cumartesi",
-    "gun": "Cumartesi",
-    "corbalar": [
-      "ŞAFAK ÇORBASI"
-    ],
-    "ana_yemekler": [
-      "ETLİ MANTI"
-    ],
-    "yan_yemekler": [],
-    "salatalar": [
-      "BÖRÜLCE PİYAZI"
-    ],
-    "tatlilar": [
-      "SUPANGLE"
-    ],
-    "kalori": "1358 kcal"
-  },
-  "2026-08-02": {
-    "tarih": "02.08.2026 Pazar",
-    "gun": "Pazar",
-    "corbalar": [],
-    "ana_yemekler": [
-      "KIY. YEŞİL MERCİMEK"
-    ],
-    "yan_yemekler": [
-      "ERİŞTE"
-    ],
-    "salatalar": [
-      "YOĞURT"
-    ],
-    "tatlilar": [
-      "MEYVE"
-    ],
-    "kalori": "1291 kcal"
-  },
-  "2026-08-03": {
-    "tarih": "03.08.2026 Pazartesi",
-    "gun": "Pazartesi",
-    "corbalar": [
-      "MERCİMEK ÇORBASI"
-    ],
-    "ana_yemekler": [
-      "P. ÜSTÜ ET DÖNER"
-    ],
-    "yan_yemekler": [],
-    "salatalar": [
-      "ÇOBAN SALATA",
-      "AYRAN"
-    ],
-    "tatlilar": [],
-    "kalori": "1128 kcal"
-  },
-  "2026-08-04": {
-    "tarih": "04.08.2026 Salı",
+  "2026-09-01": {
+    "tarih": "01.09.2026 Salı",
     "gun": "Salı",
-    "corbalar": [],
-    "ana_yemekler": [
-      "Z.Y. TAZE FASULYE"
-    ],
-    "yan_yemekler": [
-      "NAP.SOSLU MAKARNA"
-    ],
-    "salatalar": [
-      "YOĞURT"
-    ],
-    "tatlilar": [
-      "AŞURE"
-    ],
-    "kalori": "1463 kcal"
-  },
-  "2026-08-05": {
-    "tarih": "05.08.2026 Çarşamba",
-    "gun": "Çarşamba",
-    "corbalar": [
-      "YAYLA ÇORBA"
-    ],
-    "ana_yemekler": [
-      "GAR. FIR. PİLİÇ KÜLBASTI"
-    ],
-    "yan_yemekler": [
-      "SEB. BULGUR PİLAVI"
-    ],
-    "salatalar": [
-      "YOĞ. GİRİT KABAK"
-    ],
-    "tatlilar": [],
-    "kalori": "1297 kcal"
-  },
-  "2026-08-06": {
-    "tarih": "06.08.2026 Perşembe",
-    "gun": "Perşembe",
     "corbalar": [],
     "ana_yemekler": [
       "Z.Y. KURU FASULYE"
     ],
     "yan_yemekler": [
-      "TER. PİRİNÇ PİLAVI"
+      "BULGUR PİLAVI"
     ],
     "salatalar": [
-      "KURU CACIK"
+      "YOĞURT"
     ],
     "tatlilar": [
-      "CEV. BROWNİE"
+      "MEYVE"
     ],
-    "kalori": "1295 kcal"
+    "kalori": "1250 kcal"
   },
-  "2026-08-07": {
-    "tarih": "07.08.2026 Cuma",
-    "gun": "Cuma",
+  "2026-09-02": {
+    "tarih": "02.09.2026 Çarşamba",
+    "gun": "Çarşamba",
     "corbalar": [
       "KR. SEBZE ÇORBASI"
     ],
     "ana_yemekler": [
-      "PÜR. MİSKET KÖFTE"
+      "GAR. ÇITIR PİLİÇ"
     ],
     "yan_yemekler": [
-      "FES. SOSLU MAKARNA"
+      "MANTAR SOS. MAKARNA"
+    ],
+    "salatalar": [
+      "AYRAN"
+    ],
+    "tatlilar": [],
+    "kalori": "1430 kcal"
+  },
+  "2026-09-03": {
+    "tarih": "03.09.2026 Perşembe",
+    "gun": "Perşembe",
+    "corbalar": [
+      "DÜĞÜN ÇORBASI"
+    ],
+    "ana_yemekler": [
+      "YOĞ. BİBER DOLMASI"
+    ],
+    "yan_yemekler": [
+      "GÜL BÖREĞİ"
     ],
     "salatalar": [],
     "tatlilar": [
-      "MEYVE"
+      "CEV. BAKLAVA"
     ],
-    "kalori": "1405 kcal"
+    "kalori": "1470 kcal"
   },
-  "2026-08-08": {
-    "tarih": "08.08.2026 Cumartesi",
+  "2026-09-04": {
+    "tarih": "04.09.2026 Cuma",
+    "gun": "Cuma",
+    "corbalar": [
+      "MERCİMEK ÇORBASI"
+    ],
+    "ana_yemekler": [
+      "İZMİR KÖFTE"
+    ],
+    "yan_yemekler": [
+      "TER. PİRİNÇ PİLAVI"
+    ],
+    "salatalar": [
+      "AKDENİZ SALATA"
+    ],
+    "tatlilar": [],
+    "kalori": "1360 kcal"
+  },
+  "2026-09-05": {
+    "tarih": "05.09.2026 Cumartesi",
     "gun": "Cumartesi",
     "corbalar": [
       "ŞAFAK ÇORBASI"
@@ -134,35 +81,107 @@
       "GAR. KAR. PİZZA"
     ],
     "yan_yemekler": [
-      "BONFRİT"
+      "PATATES TAVA"
     ],
     "salatalar": [
       "AYRAN"
     ],
     "tatlilar": [],
-    "kalori": "1358 kcal"
+    "kalori": "1360 kcal"
   },
-  "2026-08-09": {
-    "tarih": "09.08.2026 Pazar",
+  "2026-09-06": {
+    "tarih": "06.09.2026 Pazar",
     "gun": "Pazar",
     "corbalar": [
-      "MAHLUTA ÇORBASI"
+      "KR. DOMATES ÇORBA"
     ],
     "ana_yemekler": [
-      "FIRIN GÜVEÇ"
+      "ETLİ MANTI"
+    ],
+    "yan_yemekler": [],
+    "salatalar": [
+      "ŞAKŞUKA"
+    ],
+    "tatlilar": [
+      "SUPANGLE"
+    ],
+    "kalori": "1350 kcal"
+  },
+  "2026-09-07": {
+    "tarih": "07.09.2026 Pazartesi",
+    "gun": "Pazartesi",
+    "corbalar": [
+      "EZOGELİN ÇORBASI"
+    ],
+    "ana_yemekler": [
+      "TİRE KÖFTE"
     ],
     "yan_yemekler": [
       "TER. PİRİNÇ PİLAVI"
     ],
     "salatalar": [
-      "YOĞURT"
+      "MEVSİM SALATA"
     ],
     "tatlilar": [],
-    "kalori": "1356 kcal"
+    "kalori": "1350 kcal"
   },
-  "2026-08-10": {
-    "tarih": "10.08.2026 Pazartesi",
-    "gun": "Pazartesi",
+  "2026-09-08": {
+    "tarih": "08.09.2026 Salı",
+    "gun": "Salı",
+    "corbalar": [],
+    "ana_yemekler": [
+      "PATLICAN MUSAKKA"
+    ],
+    "yan_yemekler": [
+      "KÖR. BULGUR PİLAVI"
+    ],
+    "salatalar": [
+      "CACIK"
+    ],
+    "tatlilar": [
+      "SARAY BURMA"
+    ],
+    "kalori": "1550 kcal"
+  },
+  "2026-09-09": {
+    "tarih": "09.09.2026 Çarşamba",
+    "gun": "Çarşamba",
+    "corbalar": [
+      "MERCİMEK ÇORBASI"
+    ],
+    "ana_yemekler": [
+      "FIR. GAR. SPECIAL BUT"
+    ],
+    "yan_yemekler": [
+      "MANTAR SOS. MAKARNA"
+    ],
+    "salatalar": [
+      "AYRAN"
+    ],
+    "tatlilar": [],
+    "kalori": "1370 kcal"
+  },
+  "2026-09-10": {
+    "tarih": "10.09.2026 Perşembe",
+    "gun": "Perşembe",
+    "corbalar": [],
+    "ana_yemekler": [
+      "Z.Y. NOHUT"
+    ],
+    "yan_yemekler": [
+      "ŞEH. PİRİNÇ PİLAVI"
+    ],
+    "salatalar": [
+      "YOĞURT"
+    ],
+    "tatlilar": [
+      "KARPUZ"
+    ],
+    "kalori": "1250 kcal"
+  },
+  "2026-09-11": {
+    "tarih": "11.09.2026 Cuma",
+    "gun": "Cuma",
     "corbalar": [
       "KR. DOMATES ÇORBASI"
     ],
@@ -176,29 +195,65 @@
     "tatlilar": [
       "MUZLU MAGNOLYA"
     ],
-    "kalori": "1344 kcal"
+    "kalori": "1350 kcal"
   },
-  "2026-08-11": {
-    "tarih": "11.08.2026 Salı",
-    "gun": "Salı",
-    "corbalar": [],
+  "2026-09-12": {
+    "tarih": "12.09.2026 Cumartesi",
+    "gun": "Cumartesi",
+    "corbalar": [
+      "YAYLA ÇORBASI"
+    ],
     "ana_yemekler": [
-      "Z.Y. BAMYA"
+      "ETLİ MEVSİM TÜRLÜ"
     ],
     "yan_yemekler": [
-      "ŞEH. PİRİNÇ PİLAVI"
+      "BULGUR PİLAVI"
+    ],
+    "salatalar": [],
+    "tatlilar": [
+      "MEYVE"
+    ],
+    "kalori": "1280 kcal"
+  },
+  "2026-09-13": {
+    "tarih": "13.09.2026 Pazar",
+    "gun": "Pazar",
+    "corbalar": [
+      "ŞAFAK ÇORBA"
+    ],
+    "ana_yemekler": [
+      "FIR. KÖFTE PATATES"
+    ],
+    "yan_yemekler": [
+      "NAP. SOS. MAKARNA"
+    ],
+    "salatalar": [
+      "KURU CACIK"
+    ],
+    "tatlilar": [],
+    "kalori": "1390 kcal"
+  },
+  "2026-09-14": {
+    "tarih": "14.09.2026 Pazartesi",
+    "gun": "Pazartesi",
+    "corbalar": [],
+    "ana_yemekler": [
+      "Z.Y. TAZE FASULYE"
+    ],
+    "yan_yemekler": [
+      "TER. PİRİNÇ PİLAVI"
     ],
     "salatalar": [
       "YOĞURT"
     ],
     "tatlilar": [
-      "MEYVE"
+      "TAH. PEYNİR TATLISI"
     ],
-    "kalori": "1250 kcal"
+    "kalori": "1310 kcal"
   },
-  "2026-08-12": {
-    "tarih": "12.08.2026 Çarşamba",
-    "gun": "Çarşamba",
+  "2026-09-15": {
+    "tarih": "15.09.2026 Salı",
+    "gun": "Salı",
     "corbalar": [
       "YAYLA ÇORBA"
     ],
@@ -206,16 +261,34 @@
       "SAKSI KEBABI"
     ],
     "yan_yemekler": [
-      "NAP. SOSLU MAKARNA"
+      "KEKLİK PİLAVI"
     ],
     "salatalar": [],
     "tatlilar": [
-      "MOZAİK PASTA"
+      "KARPUZ"
     ],
-    "kalori": "1463 kcal"
+    "kalori": "1380 kcal"
   },
-  "2026-08-13": {
-    "tarih": "13.08.2026 Perşembe",
+  "2026-09-16": {
+    "tarih": "16.09.2026 Çarşamba",
+    "gun": "Çarşamba",
+    "corbalar": [
+      "TARHANA ÇORBASI"
+    ],
+    "ana_yemekler": [
+      "SEBZELİ KÖFTE"
+    ],
+    "yan_yemekler": [
+      "TER. PİRİNÇ PİLAVI"
+    ],
+    "salatalar": [
+      "AKDENİZ SALATA"
+    ],
+    "tatlilar": [],
+    "kalori": "1390 kcal"
+  },
+  "2026-09-17": {
+    "tarih": "17.09.2026 Perşembe",
     "gun": "Perşembe",
     "corbalar": [
       "MERCİMEK ÇORBASI"
@@ -224,61 +297,42 @@
       "FIR. GAR. PİLİÇ BAGET"
     ],
     "yan_yemekler": [
-      "KÖR. BULGUR PİLAVI"
-    ],
-    "salatalar": [
-      "AYRAN"
-    ],
-    "tatlilar": [],
-    "kalori": "1421 kcal"
-  },
-  "2026-08-14": {
-    "tarih": "14.08.2026 Cuma",
-    "gun": "Cuma",
-    "corbalar": [
-      "KR. MANTAR ÇORBA"
-    ],
-    "ana_yemekler": [
-      "İZMİR KÖFTE"
-    ],
-    "yan_yemekler": [
-      "TER. PİRİNÇ PİLAVI"
+      "FES. SOS. MAKARNA"
     ],
     "salatalar": [],
     "tatlilar": [
-      "KEKLİ SUPANGLE"
+      "FIRIN SÜTLAÇ"
     ],
-    "kalori": "1405 kcal"
+    "kalori": "1490 kcal"
   },
-  "2026-08-15": {
-    "tarih": "15.08.2026 Cumartesi",
-    "gun": "Cumartesi",
+  "2026-09-18": {
+    "tarih": "18.09.2026 Cuma",
+    "gun": "Cuma",
     "corbalar": [],
     "ana_yemekler": [
-      "ETLİ PATATES"
+      "Z.Y. KURU FASULYE"
     ],
     "yan_yemekler": [
       "KÖYLÜ PİLAVI"
     ],
     "salatalar": [
-      "KURU CACIK"
+      "YOĞURT",
+      "KARIŞIK TURŞU"
     ],
-    "tatlilar": [
-      "MEYVE"
-    ],
-    "kalori": "1481 kcal"
+    "tatlilar": [],
+    "kalori": "1250 kcal"
   },
-  "2026-08-16": {
-    "tarih": "16.08.2026 Pazar",
-    "gun": "Pazar",
+  "2026-09-19": {
+    "tarih": "19.09.2026 Cumartesi",
+    "gun": "Cumartesi",
     "corbalar": [
       "TARHANA ÇORBASI"
     ],
     "ana_yemekler": [
-      "PÜR. HASANPAŞA KÖFTE"
+      "GAR. KAR. PİZZA"
     ],
     "yan_yemekler": [
-      "MAKARNA"
+      "BONFRİT"
     ],
     "salatalar": [
       "AYRAN"
@@ -286,190 +340,155 @@
     "tatlilar": [],
     "kalori": "1358 kcal"
   },
-  "2026-08-17": {
-    "tarih": "17.08.2026 Pazartesi",
-    "gun": "Pazartesi",
-    "corbalar": [],
-    "ana_yemekler": [
-      "ORMAN KEBABI"
-    ],
-    "yan_yemekler": [
-      "TER. PİRİNÇ PİLAVI"
-    ],
-    "salatalar": [
-      "YOĞURT"
-    ],
-    "tatlilar": [
-      "LOR TATLISI"
-    ],
-    "kalori": "1240 kcal"
-  },
-  "2026-08-18": {
-    "tarih": "18.08.2026 Salı",
-    "gun": "Salı",
+  "2026-09-20": {
+    "tarih": "20.09.2026 Pazar",
+    "gun": "Pazar",
     "corbalar": [
-      "ŞAFAK ÇORBASI"
-    ],
-    "ana_yemekler": [
-      "FIR. KÖFTE PATATES"
-    ],
-    "yan_yemekler": [
-      "SEB. BULGUR PİLAVI"
-    ],
-    "salatalar": [
-      "AYRAN"
-    ],
-    "tatlilar": [],
-    "kalori": "1463 kcal"
-  },
-  "2026-08-19": {
-    "tarih": "19.08.2026 Çarşamba",
-    "gun": "Çarşamba",
-    "corbalar": [
-      "MERCİMEK ÇORBASI"
-    ],
-    "ana_yemekler": [
-      "SEBZE GRATEN"
-    ],
-    "yan_yemekler": [
-      "BOLONEZ SOS. MAKARNA"
-    ],
-    "salatalar": [],
-    "tatlilar": [
-      "DONDURMA"
-    ],
-    "kalori": "1391 kcal"
-  },
-  "2026-08-20": {
-    "tarih": "20.08.2026 Perşembe",
-    "gun": "Perşembe",
-    "corbalar": [],
-    "ana_yemekler": [
-      "KARNIYARIK"
-    ],
-    "yan_yemekler": [
-      "TER. PİRİNÇ PİLAVI"
-    ],
-    "salatalar": [
-      "KURU CACIK"
-    ],
-    "tatlilar": [
-      "MEYVE"
-    ],
-    "kalori": "1428 kcal"
-  },
-  "2026-08-21": {
-    "tarih": "21.08.2026 Cuma",
-    "gun": "Cuma",
-    "corbalar": [
-      "EZOGELİN ÇORBASI"
-    ],
-    "ana_yemekler": [
-      "GAR. ÇITIR PİLİÇ"
-    ],
-    "yan_yemekler": [
-      "FES. SOSLU MAKARNA"
-    ],
-    "salatalar": [
-      "AYRAN"
-    ],
-    "tatlilar": [],
-    "kalori": "1428 kcal"
-  },
-  "2026-08-22": {
-    "tarih": "22.08.2026 Cumartesi",
-    "gun": "Cumartesi",
-    "corbalar": [
-      "YAYLA ÇORBASI"
+      "KR. MANTAR ÇORBA"
     ],
     "ana_yemekler": [
       "FIRIN GÜVEÇ"
     ],
     "yan_yemekler": [
-      "BULGUR PİLAVI"
+      "TER. PİRİNÇ PİLAVI"
     ],
     "salatalar": [
       "YOĞURT"
     ],
     "tatlilar": [],
-    "kalori": "1357 kcal"
+    "kalori": "1290 kcal"
   },
-  "2026-08-23": {
-    "tarih": "23.08.2026 Pazar",
-    "gun": "Pazar",
-    "corbalar": [
-      "DOMATES ÇORBASI"
-    ],
-    "ana_yemekler": [
-      "GAR. KAR. PİZZA"
-    ],
-    "yan_yemekler": [
-      "TAVA PATATES"
-    ],
-    "salatalar": [
-      "AYRAN"
-    ],
-    "tatlilar": [],
-    "kalori": "1370 kcal"
-  },
-  "2026-08-24": {
-    "tarih": "24.08.2026 Pazartesi",
+  "2026-09-21": {
+    "tarih": "21.09.2026 Pazartesi",
     "gun": "Pazartesi",
     "corbalar": [
-      "TARHANA ÇORBASI"
+      "MERCİMEK ÇORBASI"
     ],
     "ana_yemekler": [
-      "GAR. İÇLİ KÖFTE"
+      "P.ÜSTÜ ET DÖNER"
+    ],
+    "yan_yemekler": [],
+    "salatalar": [
+      "ÇOBAN SALATA",
+      "AYRAN"
+    ],
+    "tatlilar": [],
+    "kalori": "1350 kcal"
+  },
+  "2026-09-22": {
+    "tarih": "22.09.2026 Salı",
+    "gun": "Salı",
+    "corbalar": [],
+    "ana_yemekler": [
+      "KIY. Y. MERCİMEK"
     ],
     "yan_yemekler": [
-      "SEBZELİ MAKARNA"
+      "PEYNİRLİ ERİŞTE"
+    ],
+    "salatalar": [
+      "YOĞURT"
+    ],
+    "tatlilar": [
+      "ŞÖBİYET"
+    ],
+    "kalori": "1450 kcal"
+  },
+  "2026-09-23": {
+    "tarih": "23.09.2026 Çarşamba",
+    "gun": "Çarşamba",
+    "corbalar": [
+      "KR. SEBZE ÇORBA"
+    ],
+    "ana_yemekler": [
+      "GAR. ADANA KEBAP"
+    ],
+    "yan_yemekler": [
+      "TER. PİRİNÇ PİLAVI"
     ],
     "salatalar": [
       "AYRAN"
     ],
     "tatlilar": [],
-    "kalori": "1344 kcal"
+    "kalori": "1420 kcal"
   },
-  "2026-08-25": {
-    "tarih": "25.08.2026 Salı",
-    "gun": "Salı",
-    "corbalar": [
-      "DOM. ŞEHRİYE ÇORBASI"
-    ],
+  "2026-09-24": {
+    "tarih": "24.09.2026 Perşembe",
+    "gun": "Perşembe",
+    "corbalar": [],
     "ana_yemekler": [
-      "YOĞ. KAR. KIZARTMA"
+      "Z.Y. BAMYA"
     ],
     "yan_yemekler": [
-      "GÜL BÖREĞİ"
+      "KÖYLÜ PİLAVI"
     ],
-    "salatalar": [],
+    "salatalar": [
+      "YOĞURT"
+    ],
     "tatlilar": [
-      "KARPUZ"
+      "BROWNİE"
     ],
-    "kalori": "1297 kcal"
+    "kalori": "1400 kcal"
   },
-  "2026-08-26": {
-    "tarih": "26.08.2026 Çarşamba",
-    "gun": "Çarşamba",
+  "2026-09-25": {
+    "tarih": "25.09.2026 Cuma",
+    "gun": "Cuma",
     "corbalar": [
-      "EZOGELİN ÇORBA"
+      "EZOGELİN ÇORBASI"
     ],
     "ana_yemekler": [
       "PİLİÇ FAJİTA"
     ],
     "yan_yemekler": [
-      "NAP. SOSLU MAKARNA"
+      "FES. SOS. MAKARNA"
+    ],
+    "salatalar": [
+      "MEVSİM SALATA"
+    ],
+    "tatlilar": [],
+    "kalori": "1390 kcal"
+  },
+  "2026-09-26": {
+    "tarih": "26.09.2026 Cumartesi",
+    "gun": "Cumartesi",
+    "corbalar": [
+      "KR. MANTAR ÇORBA"
+    ],
+    "ana_yemekler": [
+      "PÜR. MİSKET KÖFTE"
+    ],
+    "yan_yemekler": [
+      "ŞEH. PİRİNÇ PİLAVI"
+    ],
+    "salatalar": [
+      "AYRAN"
+    ],
+    "tatlilar": [],
+    "kalori": "1420 kcal"
+  },
+  "2026-09-27": {
+    "tarih": "27.09.2026 Pazar",
+    "gun": "Pazar",
+    "corbalar": [
+      "MERCİMEK ÇORBASI"
+    ],
+    "ana_yemekler": [
+      "YOĞ. ISPANAK"
+    ],
+    "yan_yemekler": [
+      "KALEM BÖREĞİ"
     ],
     "salatalar": [],
     "tatlilar": [
-      "FIRIN SÜTLAÇ"
+      "KEMALPAŞA TATLISI"
     ],
-    "kalori": "1250 kcal"
+    "kalori": "1380 kcal"
   },
-  "2026-08-27": {
-    "tarih": "27.08.2026 Perşembe",
-    "gun": "Perşembe",
-    "corbalar": [],
+  "2026-09-28": {
+    "tarih": "28.09.2026 Pazartesi",
+    "gun": "Pazartesi",
+    "corbalar": [
+      "ŞAFAK ÇORBA"
+    ],
     "ana_yemekler": [
       "TİRE KÖFTE"
     ],
@@ -477,75 +496,45 @@
       "KÖYLÜ PİLAVI"
     ],
     "salatalar": [
-      "AKDENİZ SALATA",
-      "AYRAN"
+      "YEŞİL SALATA"
     ],
     "tatlilar": [],
-    "kalori": "1310 kcal"
+    "kalori": "1360 kcal"
   },
-  "2026-08-28": {
-    "tarih": "28.08.2026 Cuma",
-    "gun": "Cuma",
-    "corbalar": [],
-    "ana_yemekler": [
-      "ETLİ NOHUT"
-    ],
-    "yan_yemekler": [
-      "TER. PİRİNÇ PİLAVI"
-    ],
-    "salatalar": [
-      "CACIK"
-    ],
-    "tatlilar": [
-      "CEV. BAKLAVA"
-    ],
-    "kalori": "1386 kcal"
-  },
-  "2026-08-29": {
-    "tarih": "29.08.2026 Cumartesi",
-    "gun": "Cumartesi",
-    "corbalar": [
-      "TARHANA ÇORBASI"
-    ],
-    "ana_yemekler": [
-      "SEBZELİ KÖFTE"
-    ],
-    "yan_yemekler": [
-      "MAKARNA"
-    ],
-    "salatalar": [
-      "YOĞURT"
-    ],
-    "tatlilar": [],
-    "kalori": "1295 kcal"
-  },
-  "2026-08-30": {
-    "tarih": "30.08.2026 Pazar",
-    "gun": "Pazar",
-    "corbalar": [],
-    "ana_yemekler": [],
-    "yan_yemekler": [],
-    "salatalar": [],
-    "tatlilar": [],
-    "kalori": "",
-    "not": "RESMİ TATİL"
-  },
-  "2026-08-31": {
-    "tarih": "31.08.2026 Pazartesi",
-    "gun": "Pazartesi",
+  "2026-09-29": {
+    "tarih": "29.09.2026 Salı",
+    "gun": "Salı",
     "corbalar": [],
     "ana_yemekler": [
       "PATLICAN MUSAKKA"
     ],
     "yan_yemekler": [
-      "ŞEH. PİRİNÇ PİLAVI"
+      "BULGUR PİLAVI"
     ],
     "salatalar": [
       "CACIK"
     ],
     "tatlilar": [
-      "TAH. PEYNİR TATLISI"
+      "CEV. BASMA KADAYIF"
     ],
-    "kalori": "1405 kcal"
+    "kalori": "1580 kcal"
+  },
+  "2026-09-30": {
+    "tarih": "30.09.2026 Çarşamba",
+    "gun": "Çarşamba",
+    "corbalar": [
+      "YAYLA ÇORBASI"
+    ],
+    "ana_yemekler": [
+      "PİLİÇ ŞÖVALYE"
+    ],
+    "yan_yemekler": [
+      "NAP. SOS. MAKARNA"
+    ],
+    "salatalar": [
+      "MEVSİM SALATA"
+    ],
+    "tatlilar": [],
+    "kalori": "1390 kcal"
   }
 }
