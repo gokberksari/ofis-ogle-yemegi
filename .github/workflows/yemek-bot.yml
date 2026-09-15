@@ -13,6 +13,10 @@ on:
         description: 'Test için tarih (YYYY-MM-DD formatında, örn: 2025-08-01)'
         required: false
         default: ''
+      kanal:
+        description: 'Mesajın gideceği yer (boşsa #ogle-yemegi). DM için kişinin member ID''si (U0...) veya @kullaniciadi'
+        required: false
+        default: ''
 
 jobs:
   yemek-bildirimi:
@@ -35,6 +39,6 @@ jobs:
     - name: Yemek Menüsü Bot'u çalıştır
       env:
         SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
-        SLACK_CHANNEL: '#ogle-yemegi'
+        SLACK_CHANNEL: ${{ github.event.inputs.kanal || '#ogle-yemegi' }}
         TEST_DATE: ${{ github.event.inputs.test_date || '' }}
       run: python yemek_bot.py

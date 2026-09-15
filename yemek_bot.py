@@ -182,7 +182,7 @@ class OfisYemekBot:
                 print(f"✅ Yemek menüsü Slack'e gönderildi!")
                 return True
             else:
-                print(f"❌ Slack hatası: {response.status_code}")
+                print(f"❌ Slack hatası: {response.status_code} - {response.text}")
                 return False
                 
         except Exception as e:
