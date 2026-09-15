@@ -78,6 +78,25 @@ Fine-grained token (önerilen):
 
 ---
 
+## Ek: Birine özel sabah DM'i (örn. 08:00)
+
+Workflow'un `kanal` input'u verilirse mesaj `#ogle-yemegi` yerine oraya gider. Webhook
+eski tip "Incoming WebHooks" entegrasyonu olduğu için kişinin **member ID**'si
+(`U0...`, profil → ⋮ → Copy member ID) verilince menü o kişiye DM olarak düşer.
+
+cron-job.org'da mevcut işi kopyala, sadece şunları değiştir:
+
+- **Time**: `08:00` (Europe/Istanbul, hafta içi)
+- **Request body**:
+  ```json
+  {"ref":"main","inputs":{"kanal":"U0XXXXXXXXX"}}
+  ```
+
+Birden fazla kişi isterse her biri için ayrı bir iş aç. Hafta sonu / tatil kuralları
+DM için de aynen geçerli.
+
+---
+
 ## Notlar
 
 - **Hafta sonu / tatil**: cron-job.org yalnızca hafta içi tetikliyor; ayrıca botun
